@@ -1,5 +1,5 @@
 # Anderson
-
+FUNCTION: TO create a donor funding model for Anderson Cancer Center using Principal Component Analysis (PCA) to identify vital factors that influences  funding.
 
 Step Taken: 
 
